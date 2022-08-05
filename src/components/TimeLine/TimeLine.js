@@ -43,9 +43,12 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      Timeline
-    </div>
+    <Section id="about">
+      <SectionTitle>About Me</SectionTitle>
+      <SectionText>
+        After many years as a Project Manager for a construction company, I've decided to take a break from my job and pursue a new career in my passion for web development.
+      </SectionText>
+    </Section>
   );
 };
 
