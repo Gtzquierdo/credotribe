@@ -15,7 +15,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:gtzquierdo@gmail.com">
-            gtzquierdo@gmail
+            gtzquierdo@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
