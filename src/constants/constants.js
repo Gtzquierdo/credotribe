@@ -3,7 +3,7 @@ export const projects = [
     title: "CredoTribe Blog",
     description:
       "Using React, Next.js, and GraphQL, I created a blog for CredoTribe.com. The blog is an application where you can follow me along my journey and learn about my work. Mostly programming related, but I also have a lot of fun with my family.",
-    image: "/public/images/credoTribeBlog.jpg",
+    image: "/images/credo_blog.jpg",
     tags: ["React", "Next.js", "GraphQL"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -13,7 +13,7 @@ export const projects = [
     title: "E-Commerce",
     description:
       "Built an e-commerce site using React, Next.js and utilized Stripe for payment processing. The site is a single page application that allows users to view products, add them to their cart, and checkout.",
-    image: "/public/images/the_great_find.jpg",
+    image: "/images/the_great_find.jpg",
     tags: ["React", "JavaScript"],
     source: "https://github.com/Gtzquierdo/the-great-find",
     visit: "https://google.com",
@@ -23,7 +23,7 @@ export const projects = [
     title: "HomeSky Inc.",
     description:
       "Revamped website for HomeSky Inc. using HTML, CSS, Bootstrap, React, and Javascript. The is site is an overhaul of their previous site where customers can view more information about the company and their services.",
-    image: "/public/images/home_sky.jpg",
+    image: "/images/home_sky.jpg",
     tags: ["React", "JavaScript", "Bootstrap"],
     source: "https://google.com",
     visit: "https://google.com",
