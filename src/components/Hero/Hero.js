@@ -13,7 +13,7 @@ const Hero = (props) => (
       </SectionTitle>
       {/* // Value, bring value to community and companies */}
       <SectionText> 
-        CredoTribe is my personal site that I created to learn React.js and showcase my many different projects. I hope you enjoy my site.
+        CredoTribe is my personal site that I created to learn React.js, other JS Frameworks, and to showcase my many different projects. I hope you enjoy my site. Click "Learn More" to reach my blog and learn more about CredoTribe!
       </SectionText>
       <Button onClick={() => window.location = 'https://google.com'}> Learn More </Button>
     </LeftSection>
